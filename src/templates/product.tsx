@@ -36,8 +36,8 @@ export default function Product({ document }: TemplateProps) {
     <>
       <PageLayout backgroundColor="#FFFFFF">
         <HeaderSimple
-          backgroundColor="#000000"
-          logo=" https://a.mktgcdn.com/p/R9FjcYjRNA5dAespqgHFLMvu2m18-E5Apnb3KON0oJY/300x300.png"
+          backgroundColor="#df722a"
+          logo={`https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/flipkart-095e08.svg`}
         />
         <CenteredContainer>
           <GridContainer>
